@@ -1,0 +1,44 @@
+body{
+  font-family:'Arial';
+  color:#333;
+}
+li{
+  position:relative;
+  margin-top:20px;
+  left:32%;
+  width:35%;
+}
+#main{
+  text-align:center;
+  background-color:rgb(238, 238, 238);;
+}
+#title{
+ font-size:3.5rem;
+}
+#img-div{
+  background-color:white;
+  height:850px;
+  position:relative;
+  margin-left:20px;
+  margin-right:20px;
+}
+#image{
+  max-width: 100%;
+  height: auto;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+}
+#img-caption{
+  position:absolute;
+  top:95%;
+  left:50%;
+  transform: translate(-50%, -50%);
+}
+#tribute-info{
+  
+}
+#timeline{
+  text-align:left;
+}
